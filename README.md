@@ -994,10 +994,10 @@ export const StatusIcon = {
 ```
 
 </details>
-
+<!-- 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing)
+Public assets used in the project can be found [here](https://drive.google.com/file/d/1yGvWFeSaH1_-aiQ1gejT23lqz5979RKB/view?usp=sharing) -->
 
 <!-- ## <a name="more">🚀 More</a>
 
