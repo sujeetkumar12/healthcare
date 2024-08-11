@@ -42,7 +42,7 @@ const RegisterForm = ({ user }: { user: User }) => {
 
   const onSubmit = async (values: z.infer<typeof PatientFormValidation>) => {
     setIsLoading(true);
-    
+
     // Store file info in form data as
     let formData;
     if (
@@ -85,7 +85,7 @@ const RegisterForm = ({ user }: { user: User }) => {
         privacyConsent: values.privacyConsent,
       };
 
-     // const newPatient = await registerPatient(patient);
+      // const newPatient = await registerPatient(patient);
       // console.log('hgjhgdfgjkdfgd0',newPatient)
 
       if (!!patient) {
@@ -120,7 +120,7 @@ const RegisterForm = ({ user }: { user: User }) => {
             fieldType={FormFieldType.INPUT}
             control={form.control}
             name="name"
-            placeholder="John Doe"
+            placeholder="Sujeet"
             iconSrc="/assets/icons/user.svg"
             iconAlt="user"
           />
